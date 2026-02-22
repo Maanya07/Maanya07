@@ -74,12 +74,3 @@ Analyzed 54 years of NBA performance data using Polynomial Regression and Percep
 ---
 
 ⭐ Thanks for stopping by!
-
-```
-If you want, I can also:
-- Make a **more minimal “FAANG-ready” version**
-- Make a **cute aesthetic version**
-- Or make a **hardcore technical version** for systems/AI roles
-
-Just tell me the vibe you want.
-```
